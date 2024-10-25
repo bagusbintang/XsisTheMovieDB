@@ -1,0 +1,1 @@
+ /Users/bagusbintang/Developer/Work/practice/themovieDB/XsisTheMovieDB/.dart_tool/flutter_build/a41768eabe516309a8dc47006a112457/native_assets.yaml: 
