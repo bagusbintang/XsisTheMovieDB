@@ -1,0 +1,4 @@
+#Fri Oct 25 10:00:29 WIB 2024
+base.0=/Users/bagusbintang/Developer/Work/practice/assignment_test_xsis/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
